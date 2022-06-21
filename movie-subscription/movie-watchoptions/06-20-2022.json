@@ -1,0 +1,128 @@
+{
+  "Metadata": "06-20-2022",
+  "Movies": [
+    {
+      "Movie Title": "Kairo",
+      "Movie URL": "https://www.justwatch.com/us/movie/pulse-2001",
+      "Watch Options": {
+        "Stream": [
+          "Tubi TV | Ads",
+          "Kanopy | Free",
+          "Plex | Free",
+          "Amazon Prime Video | Subs",
+          "VUDU Free | Ads",
+          "AMC+ Amazon Channel | Subs"
+        ],
+        "Rent": [
+          "Apple iTunes | $3.99",
+          "Amazon Video | $2.99",
+          "Vudu | $2.99",
+          "Microsoft Store | $3.99"
+        ],
+        "Buy": [
+          "Vudu | $4.99",
+          "Apple iTunes | $9.99",
+          "Amazon Video | $9.99",
+          "Microsoft Store | $9.99"
+        ]
+      }
+    },
+    {
+      "Movie Title": "Us",
+      "Movie URL": "https://www.justwatch.com/us/movie/us-2019-0",
+      "Watch Options": {
+        "Stream": [],
+        "Rent": [
+          "Redbox | $3.99",
+          "Google Play Movies | $3.99",
+          "AMC on Demand | $3.00",
+          "Vudu | $3.99  4K",
+          "YouTube | $3.99",
+          "DIRECTV | $3.99",
+          "Apple iTunes | $3.99  4K",
+          "Amazon Video | $3.99  4K",
+          "Microsoft Store | $3.99  4K"
+        ],
+        "Buy": [
+          "Microsoft Store | $9.99  4K",
+          "YouTube | $14.99",
+          "DIRECTV | $12.99",
+          "Apple iTunes | $14.99  4K",
+          "AMC on Demand | $8.99",
+          "Vudu | $9.99  4K",
+          "Redbox | $9.99",
+          "Google Play Movies | $14.99",
+          "Amazon Video | $9.99  4K"
+        ]
+      }
+    },
+    {
+      "Movie Title": "Parasite",
+      "Movie URL": "https://www.justwatch.com/us/movie/parasite-2019",
+      "Watch Options": {
+        "Stream": [
+          "Kanopy | Free",
+          "Hulu | Subs"
+        ],
+        "Rent": [
+          "Redbox | $3.99",
+          "Google Play Movies | $3.99",
+          "AMC on Demand | $3.00",
+          "Alamo on Demand | $3.99",
+          "Vudu | $3.99  4K",
+          "YouTube | $3.99",
+          "DIRECTV | $3.99",
+          "Apple iTunes | $3.99  4K",
+          "Spectrum On Demand | $3.99",
+          "Microsoft Store | $3.99  4K"
+        ],
+        "Buy": [
+          "AMC on Demand | $11.99",
+          "DIRECTV | $21.99  4K",
+          "YouTube | $14.99",
+          "Alamo on Demand | $9.99",
+          "Apple iTunes | $14.99  4K",
+          "Vudu | $14.99  4K",
+          "Microsoft Store | $14.99  4K",
+          "Google Play Movies | $14.99",
+          "Redbox | $13.99"
+        ]
+      }
+    },
+    {
+      "Movie Title": "The Lighthouse",
+      "Movie URL": "https://www.justwatch.com/us/movie/the-lighthouse-2019",
+      "Watch Options": {
+        "Stream": [
+          "Kanopy | Free",
+          "fuboTV | Subs",
+          "Spectrum On Demand | Subs",
+          "Showtime Amazon Channel | Subs",
+          "Showtime Roku Premium Channel | Subs",
+          "Showtime | Subs",
+          "DIRECTV | Subs"
+        ],
+        "Rent": [
+          "Apple iTunes | $3.99",
+          "Amazon Video | $2.99",
+          "Redbox | $3.99",
+          "YouTube | $2.99",
+          "Vudu | $2.99",
+          "Microsoft Store | $4.99",
+          "DIRECTV | $3.99",
+          "Google Play Movies | $2.99"
+        ],
+        "Buy": [
+          "YouTube | $12.99",
+          "Vudu | $12.99",
+          "Amazon Video | $12.99",
+          "Redbox | $12.99",
+          "Microsoft Store | $12.99",
+          "DIRECTV | $12.99",
+          "Google Play Movies | $12.99",
+          "Apple iTunes | $12.99"
+        ]
+      }
+    }
+  ]
+}
